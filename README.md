@@ -19,7 +19,7 @@ I am an ambitious and fast-learning individual passionate about data and technol
 
 ### 🌟 Featured Projects
 
-#### 🛒 [Retail Project - Big Data ELT & Quality Pipeline](https://github.com/ananyot-damnoenkiat/retail-project)
+#### 🛒 [Retail Project - Big Data ELT & Quality Pipeline](https://github.com/ananyot-damnoenkiat/retail_project)
 A scalable ELT pipeline utilizing **PySpark** for data transformation and **Airflow** for orchestration. Features automated data quality checks and a Star Schema modeling approach in BigQuery.
 * **Key Tech:** PySpark, Airflow, Docker, GCP, Terraform
 
