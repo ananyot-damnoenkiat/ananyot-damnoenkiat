@@ -9,12 +9,12 @@ I am an ambitious and fast-learning individual passionate about data and technol
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Engineering** | ![Data Pipeline](https://img.shields.io/badge/-Data_Pipeline_(ETL/ELT)-cad2c5) ![Data Modeling](https://img.shields.io/badge/-Data_Modeling-84a98c) ![Data Warehousing](https://img.shields.io/badge/-Data_Warehousing-52796f)
-| **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
-| **Data Processing** | ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
+| **Data Engineering** | ![Data Pipeline](https://img.shields.io/badge/-Data_Pipeline_(ETL/ELT)-cad2c5) ![Data Modeling](https://img.shields.io/badge/-Data_Modeling-84a98c) ![Data Warehousing](https://img.shields.io/badge/-Data_Warehousing-52796f) |
+| **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-6a994e?logo=MongoDB&logoColor=white) |
+| **Big Data & Processing** | ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
 | **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white) |
 | **Cloud Platform** | ![GCS](https://img.shields.io/badge/-GCS-4285F4?logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=google-cloud&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-fb8500?logo=dbt&logoColor=white)|
+| **Tools & Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-fb8500?logo=dbt&logoColor=white)|
 
 ---
 
