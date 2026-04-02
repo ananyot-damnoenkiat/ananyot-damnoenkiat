@@ -9,6 +9,7 @@ I am an ambitious and fast-learning individual passionate about data and technol
 
 | Category | Tools & Technologies |
 | :--- | :--- |
+| **Data Engineering** | ![Data Pipeline] ![Data Modeling] ![Data Warehousing]
 | **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) |
 | **Data Processing** | ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
 | **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white) |
